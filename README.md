@@ -12,5 +12,5 @@ Repository to store some problems solved during participation at IFCE's Google D
 ### Linked lists, stacks and queues
   - **[leetcode 155. Min Stack](https://leetcode.com/problems/min-stack/) - [solution](/linked-lists-stacks-and-queues/min-stack.cpp)**
   - **[leetcode 1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) - [solution](/linked-lists-stacks-and-queues/leetcode-1047-remove-all-adjacent-duplicates-in-string.cpp)**
-# Strings and arrays
+### Strings and arrays
   - **[leetcode 1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) - [solution](/strings-and-arrays/leetcode-1773-count-items-matching-a-rule.cpp)**
