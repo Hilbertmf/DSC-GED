@@ -21,3 +21,4 @@ Repository to store some problems solved during participation at IFCE's Google D
   
 ### Trees and heaps
   - **[leetcode 199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) - [solution](/trees-and-heaps/leetcode199-binary-tree-right-side-view.cpp)**
+  - **[leetcode 1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) - [solution](/trees-and-heaps/leetcode1382-balance-a-binary-search-tree.cpp)**
