@@ -18,3 +18,6 @@ Repository to store some problems solved during participation at IFCE's Google D
   - **[leetcode 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) - [solution](/binary-search/leetcode852-peak-index-in-a-mountain-array.cpp)**
 ### Greedy
   - **[leetcode 942. DI String Match](https://leetcode.com/problems/di-string-match/) - [solution](/greedy/leetcode-942-di-string-match.cpp)**
+  
+### Trees and heaps
+  - **[leetcode 199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) - [solution](/trees-and-heaps/leetcode199-binary-tree-right-side-view.cpp)**
