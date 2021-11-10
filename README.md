@@ -23,3 +23,4 @@ Repository to store some problems solved during participation at IFCE's Google D
   - **[leetcode 199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) - [solution](/trees-and-heaps/leetcode199-binary-tree-right-side-view.cpp)**
   - **[leetcode 973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - [solution w/ heap](/trees-and-heaps/leetcode973-k-closest-points-to-origin(heap).cpp) - [solution w/ sorting](/trees-and-heaps/leetcode973-k-closest-points-to-origin(sorting).cpp)**
   - **[leetcode 1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) - [solution](/trees-and-heaps/leetcode1382-balance-a-binary-search-tree.cpp)**
+  - **[leetcode 1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/) - [solution](/trees-and-heaps/leetcode1696-jump-game-vi.cpp)**
