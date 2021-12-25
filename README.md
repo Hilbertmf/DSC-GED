@@ -6,6 +6,7 @@ Repository to store some problems solved during participation at IFCE's Google D
   - **[leetcode 412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) - [solution](/ad-hoc/leetcode412-fizz-buzz.cpp)**
   - **[leetcode 709. To Lower Case](https://leetcode.com/problems/to-lower-case/) - [solution](/ad-hoc/leetcode709-to-lower-case.cpp)**
 ### Strings and arrays
+  - **[leetcode 969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) - [solution](/strings-and-arrays/leetcode969-pancake-sorting.cpp)**
   - **[leetcode 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) - [solution](/strings-and-arrays/leetcode-1528-shuffle-string.cpp)**
   - **[leetcode 1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) - [solution](/strings-and-arrays/leetcode-1773-count-items-matching-a-rule.cpp)**
 ### Linked lists, stacks and queues
